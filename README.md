@@ -1,4 +1,4 @@
 # VexDifferentialSwerve
-might be fun, might be a nightmare to program
+Was a nightmare to program, but it works and it's amazing.
 
 Project for Robot Revolution
